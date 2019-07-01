@@ -1,0 +1,19 @@
+/* Feuille de styles CSS */
+
+h1{
+    color: red;
+    font-size: 2em
+  }
+  figure{
+    text-align: center
+  }
+  ul{
+    border: solid;
+    border-color: blue;
+    border-width: 2px;
+    box-shadow: 10px 5px 5px gray;
+  }
+  a:hover{
+    font-weight: bold;
+  }
+  

@@ -1,0 +1,65 @@
+body{
+    background-image: url("src/img/background.jpg")
+}
+#content{
+    width: 750px;
+    height: 500px;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+#chat{
+    width: 750px;
+    height: 500px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-style: solid;
+    border-color: darkgrey;
+    border-radius: 15px;
+    background-color: white;
+    overflow:auto
+}
+#formPseudo{
+    position: relative;
+    left: 450px;
+}
+#formMessage{
+    margin: 0 auto;
+    position: relative;
+}
+textarea{
+    width: 85%;
+    border-style: solid;
+    border-color: darkgrey;
+    border-radius: 5px;
+    resize: none;
+}
+#buttonMessage{
+    position: relative;
+    top: -35px;
+    left: 5px;
+    width: 100px;
+    height: 80px;
+    font-size: 20px;
+}
+#pseudo{
+    position: relative;
+    left: 250px;
+    font-size: 20px;
+    font-weight: bold
+}
+hr{
+    width: 90%
+}
+.pseudoFromChat, #pseudoConnected{
+    font-weight: bold
+}
+p{
+    font-size: 115%;
+    margin-left: 10%;
+}
+#dateAndHourChat{
+    font-size: 80%;
+}
+#buttonChangePseudo{
+    margin-left: 8%;
+}

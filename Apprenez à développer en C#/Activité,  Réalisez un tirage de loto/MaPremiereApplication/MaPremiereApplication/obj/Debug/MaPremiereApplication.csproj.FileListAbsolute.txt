@@ -1,0 +1,7 @@
+C:\wamp64\www\OpenClassrooms\Apprenez à développer en C#\MaPremiereApplication\MaPremiereApplication\bin\Debug\MaPremiereApplication.exe.config
+C:\wamp64\www\OpenClassrooms\Apprenez à développer en C#\MaPremiereApplication\MaPremiereApplication\bin\Debug\MaPremiereApplication.exe
+C:\wamp64\www\OpenClassrooms\Apprenez à développer en C#\MaPremiereApplication\MaPremiereApplication\bin\Debug\MaPremiereApplication.pdb
+C:\wamp64\www\OpenClassrooms\Apprenez à développer en C#\MaPremiereApplication\MaPremiereApplication\obj\Debug\MaPremiereApplication.csprojAssemblyReference.cache
+C:\wamp64\www\OpenClassrooms\Apprenez à développer en C#\MaPremiereApplication\MaPremiereApplication\obj\Debug\MaPremiereApplication.csproj.CoreCompileInputs.cache
+C:\wamp64\www\OpenClassrooms\Apprenez à développer en C#\MaPremiereApplication\MaPremiereApplication\obj\Debug\MaPremiereApplication.exe
+C:\wamp64\www\OpenClassrooms\Apprenez à développer en C#\MaPremiereApplication\MaPremiereApplication\obj\Debug\MaPremiereApplication.pdb
